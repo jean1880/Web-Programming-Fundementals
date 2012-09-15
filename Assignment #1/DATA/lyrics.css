@@ -1,0 +1,24 @@
+﻿div#artist{
+	padding-top:15px;
+}
+
+div#content{
+	padding-bottom:15px;
+}
+
+div#lyrics{
+	padding-top:15px
+}
+
+h1, h2, h3, h4, h5 ,h6, p, blockquote{
+	text-align:	center;
+	color:white;
+}
+
+body {
+	background-color:black;
+}
+
+div#content{
+	background-color:dimgrey;
+}
